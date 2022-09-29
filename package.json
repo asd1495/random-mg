@@ -1,0 +1,24 @@
+{
+  "name": "random-mg",
+  "version": "1.0.0",
+  "description": "Random Message Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asd1495/random-mg.git"
+  },
+  "keywords": [],
+  "author": "Armando Salcedo <armando.salcedo95@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asd1495/random-mg/issues"
+  },
+  "homepage": "https://github.com/asd1495/random-mg#readme",
+  "bin": {
+    "random-mg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
